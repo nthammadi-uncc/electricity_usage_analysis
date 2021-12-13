@@ -29,6 +29,11 @@ Data files were gathered as CSV files and all fomatting was initially removed in
 7. Median Household Income
 8. Presidential Election results
 
+## Data Visualization
+
+Data Visualizations have been done on Tableau. ----- Link to the tableau dashboard -----
+---- images if any ----
+
 ## Data Preprocessing
 
 Below data preprocessing has been performed:
