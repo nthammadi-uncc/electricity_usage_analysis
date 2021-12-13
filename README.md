@@ -105,6 +105,9 @@ Feature Selection is performed using:
 By running the model using Multi-Output Regressor with XGBoost Regressor, we could predict 96% of the Validation dataset accurately and 86% of the Test dataset accurately
 ![image](https://user-images.githubusercontent.com/77910160/145752029-0a7bce0f-9e9a-4df3-b449-9ed99c2924da.png)
 
+![image](https://user-images.githubusercontent.com/77910160/145757646-abd7ee42-d0d8-4ff5-a857-207c42d447e2.png)
+
+
 The model was tested on both Validation and test datasets that it has never seen before and for both of these the accuracy% is good which shows that the model is a good fit for the data(not overfitted)
 
 We got an R-squared of 96% with the validation data sets and an R-squared of 86% with the test datasets. The model can explain 96% of variance in the three target variables for the validation dataset and 86% of the variance for the test dataset. 
