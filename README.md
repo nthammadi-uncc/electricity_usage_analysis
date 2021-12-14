@@ -31,7 +31,7 @@ Data files were gathered as CSV files and all fomatting was initially removed in
 
 ## Data Visualization
 
-Data Visualizations have been done on Tableau. https://public.tableau.com/app/profile/yash.patel3569/viz/Book1_16394607865240/Story1?publish=yes
+Data Visualizations have been done on Tableau. [Electricity Exploration](https://public.tableau.com/app/profile/yash.patel3569/viz/Book1_16394607865240/Story1?publish=yes)
 
 
 ## Data Preprocessing
