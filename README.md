@@ -86,7 +86,7 @@ Features 27-30 are related to Emissions - Carbondioxide, Sulphurdioxide and Nitr
 
 28. Carbon_dioxide(MT)
 29. Sulphur_dioxide(MT)
-30. Nitrogen_oxide(MT)
+30. Nitrogen_oxides(MT)
 
 ## Data Preparation for Modeling
 
@@ -95,7 +95,7 @@ ELECTION_RESULT is encoded using Label Encoder into a new feature called RULING_
 ## Modeling
 
 Two Predictive Models are created for :
-1. Predicting Air pollutants(Carbon_dioxide(MT), Sulphur_dioxide(MT), Nitrogen_oxide(MT)) using a Multi-Output Regressor and XGBoost Regressor
+1. Predicting Air pollutants(Carbon_dioxide(MT), Sulphur_dioxide(MT), Nitrogen_oxides(MT)) using a Multi-Output Regressor and XGBoost Regressor
 2. Predicting RULING_PARTY using Random Forest Classifier
 
 ### Feature Selection
