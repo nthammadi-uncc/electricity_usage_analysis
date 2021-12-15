@@ -29,6 +29,11 @@ Data files were gathered as CSV files and all fomatting was initially removed in
 7. Median Household Income
 8. Presidential Election results
 
+## Data Visualization
+
+Data Visualizations have been done on Tableau. [Electricity Exploration](https://public.tableau.com/app/profile/yash.patel3569/viz/Book1_16394607865240/Story1?publish=yes)
+
+
 ## Data Preprocessing
 
 Below data preprocessing has been performed:
@@ -81,7 +86,7 @@ Features 27-30 are related to Emissions - Carbondioxide, Sulphurdioxide and Nitr
 
 28. Carbon_dioxide(MT)
 29. Sulphur_dioxide(MT)
-30. Nitrogen_oxide(MT)
+30. Nitrogen_oxides(MT)
 
 ## Data Preparation for Modeling
 
@@ -90,7 +95,7 @@ ELECTION_RESULT is encoded using Label Encoder into a new feature called RULING_
 ## Modeling
 
 Two Predictive Models are created for :
-1. Predicting Air pollutants(Carbon_dioxide(MT), Sulphur_dioxide(MT), Nitrogen_oxide(MT)) using a Multi-Output Regressor and XGBoost Regressor
+1. Predicting Air pollutants(Carbon_dioxide(MT), Sulphur_dioxide(MT), Nitrogen_oxides(MT)) using a Multi-Output Regressor and XGBoost Regressor
 2. Predicting RULING_PARTY using Random Forest Classifier
 
 ### Feature Selection
