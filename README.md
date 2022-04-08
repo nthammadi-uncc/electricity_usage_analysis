@@ -33,6 +33,12 @@ Data files were gathered as CSV files and all fomatting was initially removed in
 
 Data Visualizations have been done on Tableau. [Electricity Exploration](https://public.tableau.com/app/profile/yash.patel3569/viz/Book1_16394607865240/Story1?publish=yes)
 
+<img width="1014" alt="Dashboard1" src="https://user-images.githubusercontent.com/77910160/146266554-030d5da2-9695-4680-9ebb-03956831c472.png">
+
+<img width="1018" alt="Dashboard2" src="https://user-images.githubusercontent.com/77910160/146266571-10a0bffa-3fb9-4c64-8556-2b03f1265058.png">
+
+<img width="1012" alt="Dashboard3" src="https://user-images.githubusercontent.com/77910160/146266587-cacae1e3-afe8-4ba3-b5bf-3b29d94e0c1d.png">
+
 
 ## Data Preprocessing
 
@@ -123,7 +129,7 @@ By running the Random Forest Classifier on all features and with selected best f
 
 ## Results
 
-Our prediction models align with our research question that the concentration of air pollutants are correlated to the different sources of consumption and generation of Electricity, Ruling party and change in government. The accuracy scores of the models show that the data was not overfit since the prediction model was tested on both validation and test datasets that gave a decent accuracy score. 
+Our prediction models align with our research question that the concentration of air pollutants are correlated to the different sources of consumption and generation of Electricity, Ruling party and change in government, particularly for generation of COAL, NATURAL GAS, OTHER BIOMASS, OTHER GASES, PETROLEUM, SOLAR THERMAL AND PHOTOVOLTAIC, WIND and consumption of GEOTHERMAL and PETROLEUM. The accuracy scores of the models show that the data was not overfit since the prediction model was tested using K-fold Cross Validation on both validation and test datasets that gave a decent accuracy score. 
 
 ## Improvements and Future Work
 
